@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author drago
+ *
+ */
+module DijkstrasAlgorithm {
+}
