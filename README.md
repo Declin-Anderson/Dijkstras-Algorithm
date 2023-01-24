@@ -1,4 +1,4 @@
 # Dijkstras-Algorithm
-This was a program for my Algorithm's class in which we had to implement Dijkstra's Algorithm which calculates the shortest path between a node and every other node on a weighted graph.
+This was a program for my Algorithm's class in which we had to implement Dijkstra's Algorithm which calculates the shortest path between a node and every other node on a weighted graph. This has it uses when we think about AI pathing and having them reach point a to point b the fastest way possible when multiple paths are available. This algorithm will definelty have its purpose when I start to work with AI in video games! 
 
 This program is written in java and the how it works is pass in the GraphPathsDriver the number of vertices you wish to use, the weight of the edges used to create the graphs, and then run the GraphPathsDriver file with the vertex you want to start from. Then the program will show the distances from the vertex you selected and the path it takes to get to each node in the shortest distance.
